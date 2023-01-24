@@ -1,0 +1,17 @@
+#spring:
+#  datasource:
+#      username: root
+#      password: Password
+#      url: jdbc:mysql://localhost:3306/springtuto
+#      driver-class-name:  com.mysql.cj.jdbc.Driver
+#  jpa:
+#   show-sql: true
+#   hibernate:
+#      ddl-auto: update
+#      properties.hibernate.dialect : org.hibernate.dialect.MySQLDialect
+#      properties.jakarta.persistence.sharedCache.mode : ALL
+#   open-in-view : false   
+      
+      
+      
+
